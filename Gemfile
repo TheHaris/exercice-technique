@@ -1,0 +1,6 @@
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rake'
+gem 'pry'
+gem 'rspec'
+gem 'rest-client'
